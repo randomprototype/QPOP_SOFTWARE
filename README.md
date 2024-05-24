@@ -14,7 +14,7 @@ This application is sometimes suspended due to inactivity. To reactivate it, sim
 
 ## On the maintenance policy model
 
-The basis of this software is the model described in the paper **"Planning maintenance when resources are limited: a study of periodic opportunistic replacement"**, by PCristiano Cavalcante, Phil Scarf, Yan Ribeiro, Augusto Rodrigues & Naif Alotaibi. (https://doi.org/10.1093/imaman/dpae015)
+The basis of this software is the model described in the paper **"Planning maintenance when resources are limited: a study of periodic opportunistic replacement"**, by Cristiano Cavalcante, Phil Scarf, Yan Ribeiro, Augusto Rodrigues & Naif Alotaibi. (https://doi.org/10.1093/imaman/dpae015)
 
 ## Collaborations
 

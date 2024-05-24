@@ -6,7 +6,7 @@ This tool was designed for broad accessibility in the industry, eliminating the 
 
 ## Access to the application
 
-For immediate access to the WM Policy Software, please visit our user-friendly interface at:
+For immediate access to the software, please visit our user-friendly interface at:
 
 [https://yanribeirodemelo-quasiperiodicmaintenacepolicy-main-i5l5xs.streamlit.app/](https://yanribeirodemelo-quasiperiodicmaintenacepolicy-main-i5l5xs.streamlit.app/)
 
